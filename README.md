@@ -1,5 +1,4 @@
-# AI-Multi-Language-Translator
-
+---
 title: AI Translator
 sdk: streamlit
 app_file: app.py
